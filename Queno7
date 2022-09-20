@@ -1,0 +1,5 @@
+On Python shell use help() function and display the list of keywords
+>> There are Three ways to do that which as Follow
+1) Open shell --> help() --> "keyword"
+2) open shell --> help("keyword")
+3) open shall --> help() --> "modules" --> keyword 
